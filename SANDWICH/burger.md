@@ -1,4 +1,3 @@
-salade
 steak
-tomte 
+tomate
 oignon
