@@ -1,0 +1,4 @@
+salade
+steak
+tomte 
+oignon
